@@ -1,2 +1,10 @@
-# Airline-delay-analysis
-Analysis of airline flight delays using Excel, Power bi, SQL to identify patterns in delays, cancelations, and key factor affecting performance includes data cleaning, visualization, and insights for better scheduling.
+## 📊 Power BI Dashboard
+
+### Page 1 - Overview
+![Dashboard 1](Dashboard_1.png)
+
+### Page 2 - Insights
+![Dashboard 2](Dashboard_2.png)
+
+### Page 3 - Details
+![Dashboard 3](Dashboard_3.png)
